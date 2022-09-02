@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/project.astro
-title: Mars Rover
+title: Ray tracer
 client: Self
 publishDate: 2020-03-02 00:00:00
-img: https://images.unsplash.com/photo-1547234935-80c7145ec969?fit=crop&w=1400&h=700&q=75
+img: https://preview.redd.it/8sdty2i1md161.png?width=1200&format=png&auto=webp&s=367e5ca0a0172d11d440b56f4d0ce90bffccfd6c
 description: |
-  We built an unofficial Mars Rover Landing site in celebration of NASA’s Perseverance Rover.
+  I built from the ground up a Multithreaded Raytracer fully working on Java Language.
 tags:
   - design
   - dev
